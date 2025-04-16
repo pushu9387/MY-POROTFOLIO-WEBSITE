@@ -1,0 +1,64 @@
+.app {
+  min-height: 100vh;
+  padding: 1rem;
+  background-color: var(--bg);
+  color: var(--text);
+}
+.section{
+  margin: 2rem 0;
+  padding: 1rem;
+  background-color: var(--card);
+  border-radius:  12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transform:background-color 0.3s;
+}
+nav{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color:var(--card);
+  border-radius: 12px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  margin:2rem;
+}
+.toggle-btn{
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  border:none;
+  color:white;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor:pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+.toggle-btn :hover{
+  background-color: #0056b3;
+}
+
+h2{
+  color:#005f99;
+  border-bottom: 2px solid #ccc;
+  padding-bottom:5px;
+}
+ul{
+  list-style-type: square;
+  padding-left:20px;
+}
+p{
+  margin: 0.5rem;
+  line-height: 1.6;
+}
+.resume-button{
+  display:inline-block;
+  padding:0.7rem 1.2rem;
+  background-color:var(--accent-color);
+  color:white;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-top:10px;
+}
+.resume-button :hover{
+  background-color: var(--accent-color-hover);
+}

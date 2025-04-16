@@ -1,0 +1,18 @@
+body {
+  margin:0;
+  font-family: 'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;
+  background-color: var(--bg);
+  transition: all 0.3s ease-in-out;
+}
+
+:root {
+  --bg:#ffffff;
+  --text:#000000;
+  --card:#f4f4f4;
+}
+
+.dark {
+  --bg:#1f1f1f;
+  --text:#ffffff;
+  --card:#2c2c2c;
+}
