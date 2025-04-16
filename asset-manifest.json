@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pushu9387/MY-POROTFOLIO-WEBSITE/static/css/main.5742258f.css",
+    "main.js": "/pushu9387/MY-POROTFOLIO-WEBSITE/static/js/main.a39e9b48.js",
+    "index.html": "/pushu9387/MY-POROTFOLIO-WEBSITE/index.html",
+    "main.5742258f.css.map": "/pushu9387/MY-POROTFOLIO-WEBSITE/static/css/main.5742258f.css.map",
+    "main.a39e9b48.js.map": "/pushu9387/MY-POROTFOLIO-WEBSITE/static/js/main.a39e9b48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5742258f.css",
+    "static/js/main.a39e9b48.js"
+  ]
+}
