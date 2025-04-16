@@ -27,7 +27,7 @@ React.js
    
 ## Live Demo
 
-[Click to view live portfolio](https://your-portfolio.link.netlify.app)
+[Click to view live portfolio](https://github.com/pushu9387/MY-POROTFOLIO-WEBSITE.git)
 
 ##License
 
