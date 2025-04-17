@@ -46,8 +46,6 @@ Hello ,
  # License
 
  This project is license under the MIT License.
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 84b3a2a7 (Updated README with new project details)
+ 
+ # Update README with new project details
+ (new content you want)
