@@ -13,7 +13,7 @@ This is a personal portfolio website using HTML,CSS,JavaScript and React.js.It s
   *And Many more.....*
 
 # Live Demo
-[click here to visit the live portfolio](https://github.com/pushu9387/MY-POROTFOLIO-WEBSITE)
+[click here to visit the live portfolio](https://pushu9387.github.io/MY-PORTFOLIO-WEBSITE/)
 
 # About Me
 
